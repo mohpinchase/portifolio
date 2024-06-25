@@ -1,6 +1,6 @@
 
 /* *{
-  background-image:  linear-gradient(rgba(67, 177, 140, 0.65),rgba(164, 162, 175, 0.65)),url('/resources/download.jpg');
+  background-image:  linear-gradient(rgba(67, 177, 140, 0.65),rgba(164, 162, 175, 0.65)),url('download.jpg');
   background-repeat: no-repeat;
   background-size: cover;
 } */
@@ -9,7 +9,7 @@
   margin: 0;
   padding: 0;
   background-color: #008080;
-  /* background-image:  linear-gradient(rgba(67, 177, 140, 0.65),rgba(164, 162, 175, 0.65)),url('/resources/download.jpg');
+  /* background-image:  linear-gradient(rgba(67, 177, 140, 0.65),rgba(164, 162, 175, 0.65)),url('download.jpg');
   background-repeat: no-repeat;
   background-size: cover;
    */
@@ -133,7 +133,7 @@ hr{
   width: 50px;
   height: 50px;
   border-radius: 50%;
-  background-image: url('/resources/IMG-20240616-WA0014.jpg');
+  background-image: url('14.jpg');
   background-size: cover;
   background-position: center;
   padding: 100px;
@@ -189,7 +189,7 @@ p {
 }
 
 .hero-image {
-  background-image: url('/resources/programming-background-with-person-working-with-codes-computer_23-2150010125.avif');
+  background-image: url('pro.avif');
   background-size: cover;
   background-position: center;
   height: 500px;
@@ -585,7 +585,7 @@ max-height: 200px;
 }
 
 footer{
-  background-image: url(/resources/default_in_the_mesmerizing_depths_of_a_whimsical_supernatural_3_010be5f4-5100-4855-b308-e9457cacb19d.jpg);
+  background-image: url('def.jpg');
   margin-top: 20px;
   margin-bottom: 0;
   padding-bottom: 10px;
